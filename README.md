@@ -11,7 +11,6 @@ This Streamlit application is a personal AI Knowledge Base that empowers users t
 *   [Usage](#usage)
 *   [Dependencies](#dependencies)
 *   [Environment Variables](#environment-variables)
-*   [License](#license)
 
 ## Features
 
@@ -28,8 +27,8 @@ This Streamlit application is a personal AI Knowledge Base that empowers users t
 1.  **Clone the repository:**
 
     ```
-    git clone [your_repository_url]
-    cd [your_project_directory]
+    git clone https://github.com/PoojaC0730/AI-Knowledge-Base
+    cd AI-Knowledge-Base
     ```
 
 2.  **Install dependencies:**
